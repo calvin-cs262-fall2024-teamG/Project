@@ -9,11 +9,12 @@ While there are apps like *Zillow*, *Trulia Rentals*, or *Realtor.com* on the ma
 ## Additional Files
 
 - Design Models
-  - [Examples Design Model Link]()
+  - [User Interface Model](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/Mock-up_.jpg)
+  - [Domain Model](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/Class%20Diagram.drawio.pdf)
 - Presentation Materials
-  - [Example Presentation Model Link]()
+  - [Design Presentation Powerpoint](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/slide%20deck.pptx)
 - Other Documents
-  - [Example Other Documents Link]()
+  - [Usability Test Script](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/Usability%20Test%20Script.docx)
 
 ## Other RentScout Codebases
 

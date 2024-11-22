@@ -15,7 +15,6 @@ While there are apps like *Zillow*, *Trulia Rentals*, or *Realtor.com* on the ma
   - [Design Presentation Powerpoint](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/slide%20deck.pptx)
 - Other Documents
   - [Usability Test Script](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/Usability%20Test%20Script.docx)
-  - 
 
 ## Other RentScout Codebases
 

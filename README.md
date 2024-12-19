@@ -10,7 +10,7 @@ While there are apps like *Zillow*, *Trulia Rentals*, or *Realtor.com* on the ma
 
 - Design Models
   - [User Interface Model](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/ui_model.jpg)
-  - [Domain Model](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/domain_moddel.pdf)
+  - [Domain Model](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/Domain%20Model.drawio.png)
   - [Deployment Model]()
  
 - Presentation Materials
